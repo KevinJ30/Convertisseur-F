@@ -1,3 +1,1 @@
-(function() {
-    
-})()
+import { ViewCalculator } from "./ViewCalculator.js";
